@@ -1,2 +1,5 @@
-﻿  1.변수와_자료형.c
+﻿  2.입출력 함수.c
+C:\Users\user\Documents\GitHub\SchoolTextBookOrganize\학교_프로그래밍_교과서_정리\학교_프로그래밍_교과서_정리\2.입출력 함수.c(278,18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\SchoolTextBookOrganize\학교_프로그래밍_교과서_정리\학교_프로그래밍_교과서_정리\2.입출력 함수.c(280,12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\user\Documents\GitHub\SchoolTextBookOrganize\학교_프로그래밍_교과서_정리\학교_프로그래밍_교과서_정리\2.입출력 함수.c(282,19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   학교_프로그래밍_교과서_정리.vcxproj -> C:\Users\user\Documents\GitHub\SchoolTextBookOrganize\학교_프로그래밍_교과서_정리\Debug\학교_프로그래밍_교과서_정리.exe
